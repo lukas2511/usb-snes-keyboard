@@ -1,0 +1,25 @@
+*.pyc
+*.map
+*.bin
+*.elf
+*.a
+*.o
+*.d
+obj
+*.sublime-workspace
+libs/libgraphics/Tools/*.png
+libs/libgraphics/Tools/PNGConverter
+
+## OS X ##
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
